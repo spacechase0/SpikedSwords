@@ -1,0 +1,12 @@
+﻿{
+  "id": "spacechase0.SpikedSwords",
+  "name": "SpikedSwords",
+  "description": "More spiked swords.",
+  "author": "spacechase0",
+  "version": "1.0.0",
+  "type": "assembly",
+  "assembly": {
+    "dll": "SpikedSwords.dll",
+    "class": "SpikedSwords.Mod"
+  }
+}
